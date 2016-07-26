@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ABE28B18-B8FE-BC5C-661E-523C1D6BE929}") = "Scifi Shooter", "Assembly-CSharp-firstpass.csproj", "{1A82ACF0-324A-BAA1-1380-7128AFACD761}"
+EndProject
+Project("{ABE28B18-B8FE-BC5C-661E-523C1D6BE929}") = "Scifi Shooter", "Assembly-CSharp.csproj", "{D6FC758E-C7C7-7A49-2013-4B503F51E674}"
+EndProject
+Project("{ABE28B18-B8FE-BC5C-661E-523C1D6BE929}") = "Scifi Shooter", "Assembly-CSharp-Editor.csproj", "{28EC86F3-8134-3007-063F-995AE43DE5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A82ACF0-324A-BAA1-1380-7128AFACD761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A82ACF0-324A-BAA1-1380-7128AFACD761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A82ACF0-324A-BAA1-1380-7128AFACD761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A82ACF0-324A-BAA1-1380-7128AFACD761}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6FC758E-C7C7-7A49-2013-4B503F51E674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6FC758E-C7C7-7A49-2013-4B503F51E674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6FC758E-C7C7-7A49-2013-4B503F51E674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6FC758E-C7C7-7A49-2013-4B503F51E674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28EC86F3-8134-3007-063F-995AE43DE5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EC86F3-8134-3007-063F-995AE43DE5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EC86F3-8134-3007-063F-995AE43DE5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EC86F3-8134-3007-063F-995AE43DE5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
