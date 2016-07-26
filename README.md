@@ -1,2 +1,2 @@
-# Alien-Battles
-A small game demo.
+# Alien Battles
+Alien Battles is a small game demo that I created in order to showcase my programming skills.
